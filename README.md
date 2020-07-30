@@ -33,13 +33,9 @@
 - [ ] 3-SAT
 - [ ] Clique
 - [ ] TSP Approximation
-
-**To-Learn/To-Do**
 - [ ] VC Approximation
 - [ ] Fixed Parameter Tractability
 - [ ] Integer Linear Programming
-- [ ] Four-Russians + application to LCS
-- [ ] Fast Fourier Transform
 
 **Maybe Mess Around With Combinatorics**
 - [ ] Pascal’s Triangle
@@ -51,5 +47,23 @@
 - [ ] Kirchhoff’s Theorem/Matrix-Tree Algo
 - [ ] Prufer Code
 
+**Sorting**
+- [ ] Quicksort
+- [ ] Bubble sort
+- [ ] Insertion sort
+- [ ] Merge sort
+- [ ] Selection sort
+- [ ] Heapsort
+- [ ] Radix sort
+- [ ] Bucket sort
+- [ ] Pidgeonhole sort
+- [ ] Sleep sort
+- [ ] Pancake sort
+- [ ] Heapsort
 
-
+**Misc**
+- [ ] Beam Search
+- [ ] Chudnovsky Algo
+- [ ] Four-Russians + application to LCS
+- [ ] Fast Fourier Transform
+- [ ] Parsing algos?
