@@ -1,6 +1,6 @@
 # algo-analysis
 
-**122A**
+**ECS122A**
 - [ ] Max Subarray
 - [ ] Strassen’s
 - [ ] Knapsack
@@ -16,7 +16,7 @@
 - [ ] Floyd-Warshall
 - [ ] Ford-Fulkerson
 
-**122B**
+**ECS122B**
 - [ ] Karatsuba
 - [ ] Z-Algo
 - [ ] Suffix Tree Building
@@ -37,7 +37,7 @@
 - [ ] Fixed Parameter Tractability
 - [ ] Integer Linear Programming
 
-**Maybe Mess Around With Combinatorics**
+**Combinatorics**
 - [ ] Pascal’s Triangle
 - [ ] Binomial Coefficients/Theorem
 - [ ] Fibonacci/Lucas Recurrence
@@ -61,9 +61,15 @@
 - [ ] Pancake sort
 - [ ] Heapsort
 
+**NLP**
+- [ ] Edit Distance
+- [ ] Levenshtein Distance
+- [ ] Hamming Distance
+- [ ] Viterbi
+
 **Misc**
 - [ ] Beam Search
 - [ ] Chudnovsky Algo
 - [ ] Four-Russians + application to LCS
 - [ ] Fast Fourier Transform
-- [ ] Parsing algos?
+
